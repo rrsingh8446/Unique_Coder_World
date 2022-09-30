@@ -21,7 +21,7 @@ class InsertionSort {
         for (int i = 0; i < n; ++i)
             Console.Write(arr[i] + " ");
  
-        Console.Write("\n");
+        Console.Write("n");
     }
  
     public static void Main()
